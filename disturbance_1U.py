@@ -2,7 +2,7 @@ import numpy as np
 from constants_1U import m_INERTIA, M_EARTH, G, W_EARTH, AERO_DRAG, RHO, REFLECTIVITY, r_COG_2_COM_b, SOLAR_PRESSURE, Lx
 import qnv as qnv
 import satellite as satellite
-#Refer  to EV_disturbancemodel-report_01.pdf for detailed model and equations
+#Refer  to EV_disturbancemodel-report_01.pdf for detailed model and equations trial
 
 def ggTorqueb(s):
     '''
